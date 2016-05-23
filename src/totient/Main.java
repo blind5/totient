@@ -1,5 +1,5 @@
 /******************************************************
- * Evan Tellep                                        *
+ * Evan Tellep      HI                                  *
  * Practice problem given by Bill Nicholson           *
  * Completed 5/3/2016                                 *
  * Did it just because I could                        *
